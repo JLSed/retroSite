@@ -1,0 +1,113 @@
+body {
+	background-color: rgb(140, 132, 173);
+	background-image: url('../images/main/bgold.png');
+	margin: 0;
+	display:flex;
+  	justify-content:space-between;
+	overflow: auto;
+	height: auto;
+}
+
+footer {
+	background-color: blanchedalmond;
+}
+
+h1 {
+	color: blanchedalmond;
+}
+
+p {
+	color: blanchedalmond;
+}
+
+figcaption {
+	font-size: 11px;
+	padding-bottom: 3px;
+	text-align: center;
+	color: blanchedalmond
+}
+
+#upper-container-child-1 {
+	background-color: 	rgb(160, 247, 239);
+	background-image: url("../images/main/bgold3.jpeg");
+	height: auto;
+	width: 200px;
+	display: inline;
+}
+.upper-container-child-1-childs {
+	margin-bottom: -15px;
+	height: auto;
+	width: auto;
+	
+}
+
+#upper-container-child-2 {
+	width: auto;
+	height: auto;
+}
+
+.upper-container-child-2-childs {
+	padding: 10px;
+	height: auto;
+	width: 200px;
+	float: left;
+	word-wrap: break-word;
+}
+
+#lower {
+	float: inline-start;
+}
+
+.upper-container-text-childs {
+	color: rgb(99, 5, 50);
+}
+
+#upper-container-child-3 {
+	background-color: rgb(190, 101, 28);
+	background-image: url("../images/main/bgold2.jpeg");
+	height: auto;
+	width: 150px;
+	display: inline;
+}
+
+.upper-container-child-3-childs {
+	height: auto;
+	width: auto;
+}
+
+#touhou {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 60%;
+}
+
+#screenshot {
+	text-align: center;
+}
+
+#main-header {
+	text-align: center;
+}
+
+#project-h2 {
+	margin: 0;
+}
+
+.main-p {
+	text-align: justify;
+}
+
+.ss {
+	display: block;
+	max-width:90%;
+	height: auto;
+	margin: 5px;
+	border: 2px solid;
+	border-color: wheat;
+}
+
+button {
+	background-color: rgb(163, 204, 241);
+	margin-left: 10px;
+}
